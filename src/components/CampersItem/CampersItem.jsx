@@ -41,8 +41,6 @@ export const CampersItem = ({ camper }) => {
     rating,
     location,
     adults,
-    engine,
-    transmission,
     description,
     details,
     gallery,

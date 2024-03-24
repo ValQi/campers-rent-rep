@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
-import { useDispatch, useSelector } from 'react-redux';
-import { addFavorite, removeFavorite } from '../../redux/slicer/favoritesSlice'; // Импортируем функции для добавления и удаления избранного
+import { useDispatch} from 'react-redux';
+import { addFavorite, removeFavorite } from '../../redux/slicer/favoritesSlice';
 import { default as ModalWrapper } from '../../components/ModalWrapper/ModalWrapper';
 import LikeIcon from '../../assets/icons/LikeIcon';
 import StarIcon from '../../assets/icons/StarIcon';
