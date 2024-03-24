@@ -1,8 +1,8 @@
 {
-  "name": "react-homework-template",
+  "name": "campers-rent-rep",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ValQi.github.io/goit-react-hw-07-phonebook/",
+  "homepage": "https://ValQi.github.io/campers-rent-rep/",
   "dependencies": {
     "@reduxjs/toolkit": "^2.0.1",
     "@testing-library/jest-dom": "^5.16.3",
